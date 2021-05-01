@@ -1,0 +1,11 @@
+{
+  "name": "task-4",
+  "version": "1.0.0",
+  "description": "getting data by GET request and saving in file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurav",
+  "license": "ISC"
+}
